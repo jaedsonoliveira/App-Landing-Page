@@ -567,5 +567,12 @@ header label{
         .about .column .content .buttons a:last-child{
             margin: 1rem 0;
         }
+
+        .about .column .image img{
+            width: 80vw;
+        }
+        .newsletter {
+            max-height: 50vh;
+        }
     }
 
